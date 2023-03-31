@@ -30,7 +30,7 @@ const Footer = () => {
 					</Column>
 					<Column>
 						<Heading>About Us</Heading>
-						<FooterLink href="#">Our Story</FooterLink>
+						<FooterLink href="/About">Our Story</FooterLink>
 						<FooterLink href="#">Catering</FooterLink>
 					</Column>
 					<Column>

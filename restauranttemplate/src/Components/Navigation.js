@@ -45,8 +45,8 @@ export default function Navigation() {
                             <NavDropdown title="Menu" id="navbarMenuDropdown" role="button">
                                 {menuDropdown}
                             </NavDropdown>
-                        <Nav.Link>Contact</Nav.Link>
-                        <Nav.Link>About Us</Nav.Link>
+                        <Nav.Link href="/Contact">Contact</Nav.Link>
+                        <Nav.Link href="/About">About Us</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

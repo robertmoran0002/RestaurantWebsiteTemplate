@@ -13,5 +13,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="src\Images\" />
+    <Folder Include="src\Pages\Contact\" />
+    <Folder Include="src\Pages\About\" />
   </ItemGroup>
 </Project>
