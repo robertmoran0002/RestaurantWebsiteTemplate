@@ -1,0 +1,2 @@
+D:\Repos\RestaurantTemplateReact\restauranttemplate\obj\Debug\restauranttemplate.esproj.SuggestedBindingRedirects.cache
+D:\Repos\RestaurantTemplateReact\restauranttemplate\obj\Debug\restauranttemplate.esproj.CoreCompileInputs.cache
